@@ -19,7 +19,7 @@ def print_help():
     print("  tico checkout <commit>   - Checkout a specific commit")
     print("  tico help                - to see this usage help")
     print("  tico status              - to see status")
-    print("  tico user show           - to see present user (default username is naveen)")
+    print("  tico user show           - to see present user")
     print("  tico user set <username> - to change user")
     print("  tico push <path>         - to push your file to another folder")
     print()
