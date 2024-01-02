@@ -17,3 +17,9 @@ To build the project, run the following command:
 make
 ```
 This would create a executable named `gitc` in the `./bin` directory.
+
+# Tutorial Video
+
+
+https://github.com/MSTC-x-IITGN/WoC_6.0_Systems_Programming/assets/51285551/963a46df-df35-49d2-979a-66f9c88a46aa
+
